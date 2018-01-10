@@ -76,8 +76,7 @@ class Vibe_qrcode_generator{
     	});
     	</script>
     	<?php
-    }
-        
+    }  
 
 }
 
